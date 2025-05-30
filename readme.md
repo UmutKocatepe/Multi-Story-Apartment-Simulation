@@ -49,9 +49,6 @@ gcc -o construction_simulator construction_simulator.c -pthread
 ./construction_simulator
 ```
 
-## Youtube Video Link
-- https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
-
 ## Screenshots
 
 -![Output Sample 1](screenshots/output1.jpg)
