@@ -3,7 +3,7 @@
 This project simulates the construction process of a multi-story apartment building using C programming, focusing on **process**, **thread**, and **synchronization** concepts. Each floor and apartment is constructed with realistic steps, and disaster scenarios such as **fire** and **earthquake** are also modeled with multi-threaded design.
 
 ## Project Presentation
-- Youtube Link : https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
+- Youtube Link : https://youtu.be/ue1DJ5fdqqs
 
 ## Project Overview
 
