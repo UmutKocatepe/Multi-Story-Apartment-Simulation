@@ -51,8 +51,17 @@ gcc -o construction_simulator construction_simulator.c -pthread
 
 ## Screenshots
 
--![Output Sample 1](screenshots/output1.jpg)
--![Output Sample 2](screenshots/output2.jpg)
+| Output Sample 1                          | Output Sample 2                          |
+|------------------------------------------|------------------------------------------|
+| ![Output 1](screenshots/output1.jpg)     | ![Output 2](screenshots/output2.jpg)     |
+
+| Output Sample 3                          | Output Sample 4                          |
+|------------------------------------------|------------------------------------------|
+| ![Output 3](screenshots/output3.jpg)     | ![Output 4](screenshots/output4.jpg)     |
+
+| Output Sample 5                          |
+|------------------------------------------|
+| ![Output 5](screenshots/output5.jpg)     |
 
 ## ‍Contributors
 
