@@ -1,0 +1,26 @@
+# Compiled binaries
+*.out
+*.o
+*.exe
+*.a
+*.so
+
+# Temporary files
+*~
+*.swp
+*.tmp
+*.log
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific folders
+.vscode/
+.idea/
+
+# Optional build output folder
+build/
+
+# Linux core dump files
+core
